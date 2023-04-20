@@ -19,7 +19,7 @@ window.addEventListener("load",async ()=>{
 })
 let imgTag=document.createElement("img");
 imgTag.src="https://image.tmdb.org/t/p/w500/t6HIqrRAclMCA60NsSmeqe9RmNV.jpg";
-imgTag.height="250"
-imgTag.width="190"
+imgTag.height="220"
+imgTag.width="150"
 let posterContainer=document.querySelector(".poster-container");
 posterContainer.appendChild(imgTag);
