@@ -33,6 +33,5 @@
     flex-direction: row;
     justify-content: center;
     align-items: center;
-    overflow-x: scroll;
     overflow-x: hidden;
 }
